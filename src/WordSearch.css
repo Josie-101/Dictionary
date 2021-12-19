@@ -1,3 +1,8 @@
 .WordSearch {
     background: white
 }
+
+.searchForm {
+    display: block;
+    margin-left: 555px;
+}

@@ -6,7 +6,7 @@ import WordSearch from "./WordSearch";
 export default function App() {
   return (
     <div className="App">
-      <div className="conainer">
+      <div className="container">
         <header className="App-header">
           <img
             src={Dictionary}
