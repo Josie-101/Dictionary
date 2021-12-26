@@ -1,5 +1,5 @@
 body {
-  background: ivory;
+  background: white;
 }
 
 a {
@@ -11,7 +11,7 @@ a {
 }
 
 .App-logo {
-  max-width: 200px;
+  max-width: 400px;
   display: block;
   margin: 0 auto;
 }
