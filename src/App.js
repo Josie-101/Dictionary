@@ -15,10 +15,17 @@ export default function App() {
           />
         </header>
         <main>
-          <WordSearch defaultKeyword="star"/>
+          <WordSearch defaultKeyword="star" />
         </main>
-        <footer className="App-footer">
-          <small>Coded by Jo B</small>
+        <footer className="footer">
+          This app was coded by Jo and is open sourced on{" "}
+          <a
+            href="https://github.com/Josie-101/Dictionary"
+            target="blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>💖
         </footer>
       </div>
     </div>
