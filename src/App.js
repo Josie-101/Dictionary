@@ -15,7 +15,7 @@ export default function App() {
           />
         </header>
         <main>
-          <WordSearch />
+          <WordSearch defaultKeyword="star"/>
         </main>
         <footer className="App-footer">
           <small>Coded by Jo B</small>

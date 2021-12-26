@@ -2,7 +2,27 @@
     background: white
 }
 
-.searchForm {
+.WordSearch h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.WordSearch section {
+    background: whitesmoke;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.WordSearch input {
     display: block;
-    margin-left: 555px;
+    margin-left: 460px;
+    width: 300px;
+    padding: 6px 4px;
+    border: 1px solid rgb(114, 179, 199);
+}
+
+.WordSearch .hint {
+    font-size: 15px;
+    margin-top: 5px;
 }
