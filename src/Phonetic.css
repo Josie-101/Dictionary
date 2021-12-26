@@ -14,6 +14,8 @@
 .Phonetic a:hover {
     background: white;
     color: navy;
+    border: white;
+    font-size: 14px;
 }
 
 .Phonetic .text {
